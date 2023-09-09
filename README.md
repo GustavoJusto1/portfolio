@@ -10,7 +10,7 @@
 
 **Site Name:** _Gustavo Justo Neves Portfolio_
 
-**Portfolio URL:** [URL of your website]
+**Portfolio URL:** [URL website]
 
 **Purpose:** _My portfolio website was created to showcase my work as a 3D artist and web developer. It is an interactive platform where visitors can explore my projects and artworks with complete freedom._
 
